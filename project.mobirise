@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Discover Ktima Drilli's luxury villas in Naxos: comfort, privacy, and natural beauty for your tranquil retreat.-clone",
+    "name": "Ανακαλύψτε τις πολυτελείς βίλες του Κτήματος Δρίλλη στη Νάξο: άνεση, ιδιωτικότητα και φυσική ομορφιά για την ήρεμη απόδρασή σας.",
     "currentPage": "index.html",
     "ai": {
       "prompt": "Ktima Drilli – Your Tranquil Retreat in the Heart of Naxos\nDiscover the perfect blend of comfort, privacy, and natural beauty at Ktima Drilli in one of our three 90 m² luxury villas nestled in the serene landscape of Naxos. Whether you're planning a family vacation, a romantic escape, or a getaway with friends, this charming two-bedroom house offers everything you need for a truly relaxing stay.",
@@ -269,7 +269,7 @@
     "imageResize": true,
     "multilingual": false,
     "favicon": false,
-    "mbrsiteDomain": "y6is9kc7yv",
+    "mbrsiteDomain": "apofe8vpfn",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -286,8 +286,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Κτήμα Δρύλλη: Luxury Villas in Naxos for a Tranquil Retreat",
-        "meta_descr": "Ktima Drilli offers luxurious 90 m² villas in Naxos, blending comfort and natural beauty. Perfect for families, couples, or friends seeking a relaxing, private escape in Greece.",
+        "title": "Κτήμα Δρίλλη: Ζήστε τον αυθεντικό τρόπο ζωής της Νάξου",
+        "meta_descr": "Το Κτήμα Δρίλλη προσφέρει πολυτελείς βίλες 90 τ.μ. στη Νάξο, που συνδυάζουν άνεση και φυσική ομορφιά. Ιδανικό για οικογένειες, ζευγάρια ή παρέες που αναζητούν μια χαλαρωτική, ιδιωτική απόδραση στην Ελλάδα.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
